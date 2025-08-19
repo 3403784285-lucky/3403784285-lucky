@@ -3,10 +3,10 @@
 
 ## 大家好呀，我是小饺子！！！<img src="https://s1.aigei.com/prevfiles/6d0c2c5867264c8189b194ac37801d28.gif?e=2051020800&token=P7S2Xpzfz11vAkASLTkfHN7Fw-oOZBecqeJaxypL:5CcN3tdIefPtvYcr0wTw-k3h7yQ=" height="100px"/>
 
-<div style="position:relative">
-<img src="https://s1.aigei.com/prevfiles/19e18b9b1c19472bb802e406bdad11da.gif?e=2051020800&token=P7S2Xpzfz11vAkASLTkfHN7Fw-oOZBecqeJaxypL:Gz1m5YVydl9h2S9LrrAjZSrKuIk=" style="position:absolute;height=100%"/>
-
-🌟 About Me
+<div style="position:relative;>
+<img src="https://s1.aigei.com/prevfiles/19e18b9b1c19472bb802e406bdad11da.gif?e=2051020800&token=P7S2Xpzfz11vAkASLTkfHN7Fw-oOZBecqeJaxypL:Gz1m5YVydl9h2S9LrrAjZSrKuIk=" style="position:absolute;"/>
+<div>
+  🌟 About Me
 用粉粉的代码写甜甜的界面，热爱前端的好青年～
 
 - 身份标签：前端开发爱好者，沉迷「好看又好交互」的页面实现 🧩<img src="https://s1.aigei.com/prevfiles/497dabe6651448208bd8c07c29808cfd.gif?e=2051020800&token=P7S2Xpzfz11vAkASLTkfHN7Fw-oOZBecqeJaxypL:BTZlnbFyD6O-H_bSHdbwTwUTm6g=" height="26px" style="vertical-align: middle; margin-left: 8px;" />
@@ -15,8 +15,10 @@
 
 </div>
 
+</div>
 
-<div align="center" style="margin-bottom: 20px; display: flex;  align-items: center;">
+
+<div  style="margin-bottom: 20px; display: flex;  align-items: center;">
 <img src="https://s1.aigei.com/prevfiles/27a0a9cf31a1427fa1e6039cd70ce836.gif?e=2051020800&token=P7S2Xpzfz11vAkASLTkfHN7Fw-oOZBecqeJaxypL:FwodSXhHdek6IfdjRR-VSDEmRcM=" height="100px" alt="Cute Pink Star" style="margin-bottom: 12px;" />
 <img height="137px" src="https://github-readme-stats.vercel.app/api?username=3403784285-lucky&hide_title=true&hide_border=true&show_icons=true&line_height=21&text_color=777&icon_color=ff85a2&bg_color=fff5f8,ffe6f2&theme=default" />
 
@@ -24,12 +26,12 @@
 
 
 
-<div align="center" style="margin: 20px 0; display: flex; flex-direction: column; align-items: center;">
-<img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" height="200px" style="margin-bottom: 12px; filter: hue-rotate(330deg);" />
+<div style="margin: 20px 0; display: flex; flex-direction: column; align-items: center;">
+
 
 </div>
 
-<div align="center" style="margin-bottom: 20px; flex-wrap: wrap; justify-content: center; display: flex;">
+<div style="margin-bottom: 20px; flex-wrap: wrap; justify-content: center; display: flex;">
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" style="margin: 4px 8px;" />
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" style="margin: 4px 8px;" />
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" style="margin: 4px 8px;" />
@@ -42,17 +44,14 @@
 
 </div>
 
-<div align="center" style="display: flex; flex-direction: column; align-items: center;">
+<div  style="display: flex; flex-direction: column; align-items: center;">
 
 
 
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=3403784285-lucky" /> </div>
-
+<div> <img src="https://github-readme-streak-stats.herokuapp.com/?user=3403784285-lucky" /> </div>
 
 </div>
 
-<div  style="margin-top: 24px;  display: flex; flex-direction: column;justify-content:center; align-items:center;gap: 12px;">
-
-<div>谢谢你这么好看还关注我～ 🌟 一起聊前端呀！</div>
-<img src="https://s1.aigei.com/prevfiles/d748f17f7966414ea96f6a394a62a7c7.gif?e=2051020800&token=P7S2Xpzfz11vAkASLTkfHN7Fw-oOZBecqeJaxypL:qb4RFxz718gcZc3S1uyhgmkRqUg="width="80px" height="80px" style="filter: hue-rotate(330deg);" />
+<div  style="margin-top: 24px;  display: flex; justify-content:center; align-items:center;gap: 12px;">
+<span>谢谢你这么好看还关注我～ 🌟 一起聊前端呀！</span><img src="https://s1.aigei.com/prevfiles/d748f17f7966414ea96f6a394a62a7c7.gif?e=2051020800&token=P7S2Xpzfz11vAkASLTkfHN7Fw-oOZBecqeJaxypL:qb4RFxz718gcZc3S1uyhgmkRqUg=" width="80px" height="80px"/>
 </div>
