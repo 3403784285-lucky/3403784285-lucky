@@ -50,8 +50,6 @@
 
 
 
-<div> <img src="https://github-readme-streak-stats.herokuapp.com/?user=3403784285-lucky" /> </div>
-
 </div>
 
 <div  style="margin-top: 24px;  display: flex; justify-content:center; align-items:center;gap: 12px;">
